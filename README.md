@@ -1,2 +1,4 @@
 # LTR559
-Mod of the original lib LTR303 from https://github.com/automote
+Modification of the original lib LTR303 from https://github.com/automote to work on Arduino.
+
+⚒️ Work in progress
